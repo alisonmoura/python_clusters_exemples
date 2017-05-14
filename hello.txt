@@ -1,0 +1,1 @@
+Ola mundoManipulando arquivos com pythonCada chamada da funcao 'write' uma nova linha e criada
