@@ -29,9 +29,3 @@ kmeans = KMeans(n_clusters=3)
 
 kmeans.fit(datas)
 plotData();
-
-kmeans.fit(datas)
-plotData();
-
-kmeans.fit(datas)
-plotData();
